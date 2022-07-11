@@ -3,7 +3,6 @@ import 'package:my_website/components/color.dart';
 import 'package:my_website/components/text_style.dart';
 import 'package:my_website/pages/body.dart';
 import 'package:my_website/pages/footer.dart';
-import 'package:responsive_sizer/responsive_sizer.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
